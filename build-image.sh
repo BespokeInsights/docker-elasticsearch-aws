@@ -1,1 +1,1 @@
-docker build --tag=bespoke/elasticsearch-s3 .
+docker build --tag=bespoke/elasticsearch-aws .
